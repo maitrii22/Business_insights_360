@@ -174,38 +174,15 @@ In Home view, all the views button will be available. User will land on specific
 - Products
 - Support
 
-## Overall Report
 
-![Overall Report.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Overall.gif)
+## 🔗 Live Power BI Dashboard
+👉 **View Dashboard:https://lnkd.in/gccMJauq 
+⚠️ Note: The PBIX file and full dataset are not included due to file size
+and data sensitivity considerations.
 
-## Info Page
-
-![Info.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Info.gif)
-
-## Finance View
-
-![Finace.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Finace.gif)
-## Sales View
-
-![Sales.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Sales.gif)
-
-## Marketing View
-
-![Marketing.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Marketing.gif)
-
-## Supply chain View
-
-![Supply chain.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/supply%20chain.gif)
-
-## Executive View
-
-![Executive.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Executive.gif)
-
-## Products
-
-![Products](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Products%20View.gif)
-
-you can find the full report file here : [Report](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Report/360.pbix)
+## 👤 Author
+**Maitri Patel**  
+🔗 LinkedIn:(https://www.linkedin.com/in/maitri-patel-21ba92381/)
 
 
 ## Project Outcome
